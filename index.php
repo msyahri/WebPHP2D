@@ -189,13 +189,13 @@
               <div class="col-lg-3 col-md-6 mb-4" data-aos="fade-up-left">
     
                 <div class="view overlay z-depth-1-half">
-                    <img src="img/kencur instan.jpg" class="img-fluid" alt="">
+                    <img src="img/kencur instant.jpg" class="img-fluid" alt="">
                     <div class="mask rgba-white-slight"></div>
                   </div>
     
-                  <h4 class="my-4 font-weight-bold">Jalumas Kencur Instan</h4>
+                  <h4 class="my-4 font-weight-bold">Jalumas Kencur instant</h4>
                   <p class="grey-text text-justify">
-                    Jalumas Serbuk aneka varian Kencur Instan<br>
+                    Jalumas Serbuk aneka varian Kencur instant<br>
                     Berat : 100gram<br>
                     Harga : Rp. 15.000
                   </p>
@@ -209,13 +209,13 @@
               <div class="col-lg-3 col-md-6 mb-4" data-aos="fade-up-left">
     
                 <div class="view overlay z-depth-1-half">
-                    <img src="img/kunyit instan.jpg" class="img-fluid" alt="">
+                    <img src="img/kunyit instant.jpg" class="img-fluid" alt="">
                     <div class="mask rgba-white-slight"></div>
                   </div>
     
-                  <h4 class="my-4 font-weight-bold">Jalumas Kunyit Instan</h4>
+                  <h4 class="my-4 font-weight-bold">Jalumas Kunyit instant</h4>
                   <p class="grey-text text-justify">
-                    Jalumas Serbuk varian aneka Kunyit Instan<br>
+                    Jalumas Serbuk varian aneka Kunyit instant<br>
                     Berat : 100gram<br>
                     Harga : Rp. 12.000
                   </p>
@@ -232,13 +232,13 @@
               <div class="col-lg-3 col-md-6 mb-4" data-aos="fade-up-right">
     
                 <div class="view overlay z-depth-1-half">
-                    <img src="img/Jahe instan.jpg" class="img-fluid" alt="">
+                    <img src="img/Jahe instant.jpg" class="img-fluid" alt="">
                     <div class="mask rgba-white-slight"></div>
                   </div>
     
-                  <h4 class="my-4 font-weight-bold">Jalumas Jahe Instan</h4>
+                  <h4 class="my-4 font-weight-bold">Jalumas Jahe instant</h4>
                   <p class="grey-text text-justify">
-                    Jalumas Serbuk aneka varian Jahe Instan<br>
+                    Jalumas Serbuk aneka varian Jahe instant<br>
                     Berat : 100gram<br>
                     Harga : Rp 15.000
                   </p>
@@ -252,13 +252,13 @@
               <div class="col-lg-3 col-md-6 mb-4" data-aos="fade-right">
     
                 <div class="view overlay z-depth-1-half">
-                    <img src="img/temulawakinstan.jpg" class="img-fluid" alt="">
+                    <img src="img/temulawakinstant.jpg" class="img-fluid" alt="">
                     <div class="mask rgba-white-slight"></div>
                   </div>
     
                   <h4 class="my-4 font-weight-bold">Jalumas Temulawak</h4>
                   <p class="grey-text text-justify"> 
-                    Jalumas Serbuk Varian Temulawak Instan<br>
+                    Jalumas Serbuk Varian Temulawak instant<br>
                     Berat : 100gram<br>
                     Harga : Rp 15.000
                   </p>
@@ -272,13 +272,13 @@
               <div class="col-lg-3 col-md-6 mb-4" data-aos="fade-right">
     
                 <div class="view overlay z-depth-1-half">
-                    <img src="img/rrj-bumbu.jpg" class="img-fluid" alt="">
+                    <img src="img/rrj-instant.jpg" class="img-fluid" alt="">
                     <div class="mask rgba-white-slight"></div>
                   </div>
     
-                  <h4 class="my-4 font-weight-bold">Jalumas RRJ Instan</h4>
+                  <h4 class="my-4 font-weight-bold">Jalumas RRJ instantt</h4>
                   <p class="grey-text text-justify"> 
-                    Jalumas Serbuk Varian Racik Rempah Jalumas Instan<br>
+                    Jalumas Serbuk Varian Racik Rempah Jalumas instant<br>
                     Berat : 100gram<br>
                     Harga : Rp 15.000
                   </p>
@@ -310,7 +310,7 @@
           <img src="img/Background 2.jpg" alt="" srcset="" class="w-100">
           <h4 class="h5 font-weight-bold text-uppercase text-center mt-3">JALUMAS LUMBIR</h4>
           <p class="text-justify">
-            JALUMAS adalah sebuah UMKM yang berdiri di desa cingebul,Lumbir Banyumas. JALUMAS sendiri memiliki singkatan dari Jalu Alas Lumbir Ujung Banyumas, UMKM JALUMAS menjual jamu khas desa cingebul yang diambil langsung dari petani, UMKM JALUMAS menyediakan jamu yang siap minum yang dikemas dalam botol dan juga menjual dalam kemasan bubuk jamu instan.
+            JALUMAS adalah sebuah UMKM yang berdiri di desa cingebul,Lumbir Banyumas. JALUMAS sendiri memiliki singkatan dari Jalu Alas Lumbir Ujung Banyumas, UMKM JALUMAS menjual jamu khas desa cingebul yang diambil langsung dari petani, UMKM JALUMAS menyediakan jamu yang siap minum yang dikemas dalam botol dan juga menjual dalam kemasan bubuk jamu instant.
           </p>
         </div>
         <div class="modal-footer">
@@ -380,14 +380,14 @@
     <div class="modal-dialog modal-side modal-top-right" role="document">
       <div class="modal-content">
         <div class="modal-header bg-warning">
-          <h5 class="modal-title white-text text-uppercase">KENCUR INSTAN</h5>
+          <h5 class="modal-title white-text text-uppercase">KENCUR instant</h5>
           <button type="button" class="close" data-dismiss="modal" aria-label="Close">
             <span aria-hidden="true">&times;</span>
           </button>
         </div>
         <div class="modal-body">
-          <img src="img/kencur instan.jpg" alt="" srcset="" class="w-100">
-          <h4 class="h5 font-weight-bold text-uppercase text-center mt-3">KENCUR INSTAN</h4>
+          <img src="img/kencur instant.jpg" alt="" srcset="" class="w-100">
+          <h4 class="h5 font-weight-bold text-uppercase text-center mt-3">KENCUR instant</h4>
           <p class="text-justify">
             Meningkatkan fungsi pencernaan <br>
             Mengurangi peradangan <br>
@@ -408,14 +408,14 @@
     <div class="modal-dialog modal-side modal-top-left" role="document">
       <div class="modal-content">
         <div class="modal-header bg-warning">
-          <h5 class="modal-title white-text text-uppercase">KUNYIT INSTAN</h5>
+          <h5 class="modal-title white-text text-uppercase">KUNYIT instant</h5>
           <button type="button" class="close" data-dismiss="modal" aria-label="Close">
             <span aria-hidden="true">&times;</span>
           </button>
         </div>
         <div class="modal-body">
-          <img src="img/kunyit instan.jpg" alt="" srcset="" class="w-100">
-          <h4 class="h5 font-weight-bold text-uppercase text-center mt-3">KUNYIT INSTAN</h4>
+          <img src="img/kunyit instant.jpg" alt="" srcset="" class="w-100">
+          <h4 class="h5 font-weight-bold text-uppercase text-center mt-3">KUNYIT instant</h4>
           <p class="text-justify">
             Meningkatkan imun tubuh <br>
             Mengurangi peradangan <br>
@@ -436,16 +436,16 @@
     <div class="modal-dialog modal-centered" role="document">
       <div class="modal-content">
         <div class="modal-header bg-warning">
-          <h5 class="modal-title white-text text-uppercase">JAHE INSTAN</h5>
+          <h5 class="modal-title white-text text-uppercase">JAHE instant</h5>
           <button type="button" class="close" data-dismiss="modal" aria-label="Close">
             <span aria-hidden="true">&times;</span>
           </button>
         </div>
         <div class="modal-body">
-          <img src="img/Jahe instan.jpg" alt="" srcset="" class="w-100">
-          <h4 class="h5 font-weight-bold text-uppercase text-center mt-3">JAHE INSTAN</h4>
+          <img src="img/Jahe instant.jpg" alt="" srcset="" class="w-100">
+          <h4 class="h5 font-weight-bold text-uppercase text-center mt-3">JAHE instant</h4>
           <p class="text-justify">
-            Jalumas Jahe instan berkhasiat <br>
+            Jalumas Jahe instant berkhasiat <br>
             Mengobati migrain <br>
             Menurunkan kolesterol <br> 
             Meredakan perut kembung <br>
@@ -468,16 +468,16 @@
     <div class="modal-dialog modal-side modal-top-right" role="document">
       <div class="modal-content">
         <div class="modal-header bg-warning">
-          <h5 class="modal-title white-text text-uppercase">TEMULAWAK INSTAN</h5>
+          <h5 class="modal-title white-text text-uppercase">TEMULAWAK instant</h5>
           <button type="button" class="close" data-dismiss="modal" aria-label="Close">
             <span aria-hidden="true">&times;</span>
           </button>
         </div>
         <div class="modal-body">
-          <img src="img/temulawak instan.jpg" alt="" srcset="" class="w-100">
-          <h4 class="h5 font-weight-bold text-uppercase text-center mt-3">TEMULAWAK INSTAN</h4>
+          <img src="img/temulawak instant.jpg" alt="" srcset="" class="w-100">
+          <h4 class="h5 font-weight-bold text-uppercase text-center mt-3">TEMULAWAK instant</h4>
           <p class="text-justify">
-            Jalumas Serbuk Varian Temulawak Instan<br>
+            Jalumas Serbuk Varian Temulawak instant<br>
             Meningkatkan fungsi pencernaan <br>
             Mengurangi peradangan <br>
             Meredakan stres <br>
@@ -497,16 +497,16 @@
     <div class="modal-dialog modal-side modal-top-right" role="document">
       <div class="modal-content">
         <div class="modal-header bg-warning">
-          <h5 class="modal-title white-text text-uppercase">RRJ INSTAN</h5>
+          <h5 class="modal-title white-text text-uppercase">RRJ instant</h5>
           <button type="button" class="close" data-dismiss="modal" aria-label="Close">
             <span aria-hidden="true">&times;</span>
           </button>
         </div>
         <div class="modal-body">
-          <img src="img/rrj-bumbu.jpg" alt="" srcset="" class="w-100">
-          <h4 class="h5 font-weight-bold text-uppercase text-center mt-3">RRJ INSTAN</h4>
+          <img src="img/rrj-instant.jpg" alt="" srcset="" class="w-100">
+          <h4 class="h5 font-weight-bold text-uppercase text-center mt-3">RRJ instant</h4>
           <p class="text-justify">
-            Jalumas RRJ instan campuran dengan berbagai rempah pilihan yang berkhasiat untuk memberikan tambahan tenaga dan stamina bagi pria dan wanita
+            Jalumas RRJ instant campuran dengan berbagai rempah pilihan yang berkhasiat untuk memberikan tambahan tenaga dan stamina bagi pria dan wanita
           </p>
         </div>
         <div class="modal-footer">

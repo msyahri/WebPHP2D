@@ -3,7 +3,8 @@
 
 <head>
   <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+ <!-- <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"> -->
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
   <meta http-equiv="x-ua-compatible" content="ie=edge">
   <title>JALUMAS LUMBIR</title>
   <link rel="shortcut icon" href="img/logo.png" type="image/x-icon">
@@ -35,7 +36,7 @@
                   <a class="nav-link" href="#product">Produk</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="http://wa.me/082323830961">Kontak</a>
+                  <a class="nav-link" href="http://wa.me/6282323830961">Kontak</a>
                 </li>
               </ul>
             </div>
@@ -72,7 +73,7 @@
                     <a href="https://instagram.com/jalumas_banyumas?utm_medium=copy_link"><img src="img/instagram.png" alt=""></a>
                   </li>
                   <li class="text-center">
-                    <a href="http://wa.me/082323830961" ><img src="img/whatsappicon.png" alt=""></a>
+                    <a href="http://wa.me/6282323830961" ><img src="img/whatsappicon.png" alt=""></a>
                   </li>
                 </ul>
               </div>
@@ -85,7 +86,7 @@
     </header>
 
     <div class="phone-main m-4 bg-success rounded-circle fixed-bottom pl-3">
-      <a href="http://wa.me/082323830961" class="white-text">
+      <a href="http://wa.me/6282323830961" class="white-text">
         <i class="fab fa-whatsapp fa-2x"></i>
       </a>
     </div>
@@ -185,7 +186,7 @@
     
               </div>
 
-              <div class="col-lg-3 col-md-6 mb-4" data-aos="fade-left">
+              <div class="col-lg-3 col-md-6 mb-4" data-aos="fade-up-left">
     
                 <div class="view overlay z-depth-1-half">
                     <img src="img/kencur instan.jpg" class="img-fluid" alt="">
@@ -542,7 +543,7 @@
               <a href="#about" class="text-light">Tentang</a>
             </p>
             <p>
-              <a href="http://wa.me/082323830961" class="text-light">Kontak</a>
+              <a href="http://wa.me/6282323830961" class="text-light">Kontak</a>
             </p>
           </div>
           <div class="col-md-4 col-lg-3 col-xl-3">
